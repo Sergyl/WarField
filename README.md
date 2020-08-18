@@ -8,4 +8,4 @@ El juego es multiplataforma, por lo que se podrá jugar tanto en PC, Android y e
 
 
 
- 
+ SCRIPTS: EN LA CARPTETA ASSETS/SCRIPTS se pueden encontrar todos los scripts del juego que se ha desarrollado.
